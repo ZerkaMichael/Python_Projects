@@ -133,4 +133,4 @@ async def crypto(ctx, *, arg, arg1):
 
 
 
-client.run('Nzg2MTU5OTgxNDY4MTg4Njg0.X9CWiQ.BIkjogztGosRxJ3COozCQTsGp5c')
+client.run('[Key]')
